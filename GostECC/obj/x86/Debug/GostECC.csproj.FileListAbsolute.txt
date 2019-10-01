@@ -1,0 +1,10 @@
+E:\Programming\VSU\Course_4\Dump\ECCGost-master\GostECC\bin\Debug\GostECC.exe
+E:\Programming\VSU\Course_4\Dump\ECCGost-master\GostECC\bin\Debug\GostECC.pdb
+E:\Programming\VSU\Course_4\Dump\ECCGost-master\GostECC\obj\x86\Debug\GostECC.csprojAssemblyReference.cache
+E:\Programming\VSU\Course_4\Dump\ECCGost-master\GostECC\obj\x86\Debug\GostECC.Properties.Resources.resources
+E:\Programming\VSU\Course_4\Dump\ECCGost-master\GostECC\obj\x86\Debug\GostECC.csproj.GenerateResource.cache
+E:\Programming\VSU\Course_4\Dump\ECCGost-master\GostECC\obj\x86\Debug\GostECC.csproj.CoreCompileInputs.cache
+E:\Programming\VSU\Course_4\Dump\ECCGost-master\GostECC\obj\x86\Debug\GostECC.exe
+E:\Programming\VSU\Course_4\Dump\ECCGost-master\GostECC\obj\x86\Debug\GostECC.pdb
+E:\Programming\VSU\Course_4\Dump\ECCGost-master\GostECC\obj\x86\Debug\DigitalSignECC.Form1.resources
+E:\Programming\VSU\Course_4\Dump\ECCGost-master\GostECC\obj\x86\Debug\DigitalSignECC.TestForm.resources
